@@ -1,5 +1,6 @@
 {
   "name": "ci-cd",
+  "homepage": "https://bryansutanto.github.io/ci-cd/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
